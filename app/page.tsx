@@ -10,7 +10,7 @@ export default function Home() {
   return (
     <main className="min-h-screen p-8 max-w-2xl mx-auto">
       <h1 className="text-4xl font-bold mb-2" style={{ fontFamily: "var(--font-geist-sans)" }}>
-        👋 Hello, Next.js!
+        👋 Hello, Darshan de re de re bhagvanta!
       </h1>
       <p className="text-gray-500 mb-10 text-lg">A walkthrough of the fundamentals we covered.</p>
 
